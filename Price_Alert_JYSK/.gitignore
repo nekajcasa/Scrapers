@@ -1,0 +1,5 @@
+# Ignore sensitive data files
+token.json
+credentials.json
+config.json
+prices.xlsx

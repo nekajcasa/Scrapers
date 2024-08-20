@@ -1,0 +1,7 @@
+{
+  "TOKEN_PATH": " path to token.json",
+  "CREDENTIALS_PATH": "path to credentials.json",
+  "EXCEL_FILE_PATH": "path to excel file",
+  "EMAIL_FROM": "sender@mail.com",
+  "EMAIL_TO": "reciver@mail.com"
+}
